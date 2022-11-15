@@ -16,6 +16,7 @@ decorator=5.1.1=pypi_0
 entrypoints=0.4=pypi_0
 gitdb=4.0.9=pypi_0
 gitpython=3.1.29=pypi_0
+h5py=3.7.0=pypi_0
 idna=3.4=pypi_0
 importlib-metadata=5.0.0=pypi_0
 jinja2=3.1.2=pypi_0
@@ -29,6 +30,7 @@ pandas=1.5.1=pypi_0
 pillow=9.3.0=pypi_0
 pip=22.2.2=py310haa95532_0
 protobuf=3.20.3=pypi_0
+pvlib=0.9.3=pypi_0
 pyarrow=10.0.0=pypi_0
 pydeck=0.8.0=pypi_0
 pygments=2.13.0=pypi_0
@@ -41,6 +43,7 @@ pytz=2022.6=pypi_0
 pytz-deprecation-shim=0.1.0.post0=pypi_0
 requests=2.28.1=pypi_0
 rich=12.6.0=pypi_0
+scipy=1.9.3=pypi_0
 semver=2.13.0=pypi_0
 setuptools=65.5.0=py310haa95532_0
 six=1.16.0=pypi_0
