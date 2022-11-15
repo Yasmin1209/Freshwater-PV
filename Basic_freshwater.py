@@ -17,7 +17,7 @@ import streamlit as st
 
 @st.cache
 def data():
-    data = pd.ExcelFile('input.xlsx')
+    data = pd.ExcelFile('Input.xlsx')
     data = pd.read_excel(data, 'north_sea', index_col = "date") #ask later to Sara about time
     data.index = pd.to_datetime(data.index)
 
