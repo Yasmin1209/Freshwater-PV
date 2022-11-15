@@ -196,7 +196,7 @@ model_training = st.container()
 
 with header:
     st.title("solar_basic")
-    st.text("with this application it is easy to see the effect of different parameters of the solar cells on the technical output")
+    st.bar_chart(AC_plot)
 
 
 with dataset:
