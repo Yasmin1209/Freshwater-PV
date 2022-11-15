@@ -1,7 +1,6 @@
 altair==4.2.0
 attrs==22.1.0
 blinker==1.5
-ca-certificates==2022.10.11
 cachetools==5.2.0
 certifi==2022.9.24
 charset-normalizer==2.1.1
